@@ -44,9 +44,13 @@ Lab4Web/
 * Menambahkan bagian box elemen, artikel, dan *footer*.
 * **Hasil Screenshot:**
 <img width="242" height="47" alt="Screenshot 2026-10-17 161919" src="https://github.com/user-attachments/assets/074460de-4cf9-4e61-bfcc-28559017cc41" />
+
 <img width="245" height="104" alt="Screenshot 2026-10-17 161926" src="https://github.com/user-attachments/assets/658cd314-e0f2-4b8a-aec2-58866c6ae32e" />
+
 <img width="395" height="286" alt="Screenshot 2026-10-17 164239" src="https://github.com/user-attachments/assets/f83c3020-87a4-4513-83d5-545be209c380" />
+
 <img width="379" height="113" alt="Screenshot 2026-10-17 164300" src="https://github.com/user-attachments/assets/1ed6b762-cf38-4491-a1d4-e95051188b17" />
+
 <img width="243" height="346" alt="Screenshot 2026-10-17 163816" src="https://github.com/user-attachments/assets/462c0574-bdd0-4a15-9728-b8f6aa72b5dd" />
 
 ---
@@ -72,6 +76,7 @@ Lab4Web/
 1. **Tambahkan Layout untuk menu About! (buat single layout yang berisi deskripsi, portfolio, dll)**
    * **Jawaban:** Telah dibuat file `about.html` dengan tata letak bersih yang menampilkan deskripsi profil tim pengembang serta portofolio keahlian (HTML5 & CSS, Responsive Design, dan Git/GitHub).
 <img width="239" height="230" alt="Screenshot 2026-10-17 163832" src="https://github.com/user-attachments/assets/8f5e740d-a308-4310-8362-2c95d1283cfb" />
+
 2. **Tambahkan layout untuk menu Contact! (yang berisi form isian: nama, email, message, dll)**
    * **Jawaban:** Telah dibuat file `kontak.html` yang dilengkapi dengan formulir interaktif meliputi *input Name*, *Email*, *Textarea Message*, serta tombol *Submit/Kirim Pesan*.
 <img width="363" height="360" alt="Screenshot 2026-10-17 163848" src="https://github.com/user-attachments/assets/f27ad716-79fa-4dea-9e98-6620126e879d" />
